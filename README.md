@@ -1,5 +1,4 @@
-### A GlobalMart vende utensílios domésticos como Móveis, Equipamentos de escritório, Eletrodomésticos e Eletrônicos. Eles estão dentro
-### o processo de contratação de uma pequena equipe de dados e gostaria de experimentar o DBT para suas transformações de dados.
+### A GlobalMart vende utensílios domésticos como Móveis, Equipamentos de escritório, Eletrodomésticos e Eletrônicos. Eles estão dentro.O processo de contratação de uma pequena equipe de dados e gostaria de experimentar o DBT para suas transformações de dados.
 
 Para isso,
 Pedidos - isso nos dá os dados de pedidos globalmart ->(orders.csv)
